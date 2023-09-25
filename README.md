@@ -20,3 +20,7 @@ python3 exam_parser.py
   - type: Question type like single-choice but it is saved as a Mandarin string. Default is "unknown"
   - points: Points of the question. Default is "unknown"
   - options: Options of the questions. Usually started with `(A)...`
+
+## Others
+I collect all Mandarin paragraph in a list chn_paragraph but did not parse most of the contents.
+It may be useful if I have the ability to complete that.
