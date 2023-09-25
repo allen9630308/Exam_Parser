@@ -9,7 +9,7 @@ Package that might need to be installed beforehand: PyPDF2
 python3 exam_parser.py
 ```
 
-## Json data schema
+## Json Data Schema
 - url: The url of the test paper.
 - year: Which year the exam took place.
 - header: Contains all variable of Class "Question" sequentially.
