@@ -16,7 +16,7 @@ python3 exam_parser.py
 - QuestionX: An instance which is generated through the parsing part where X represents the question number.
   - q_number: Question Number.
   - paragraph: If several questions are in a question group, the share the question group paragraph. The paragraph is copied into each "Question" instance. If the questions doesn't belongs to any question group, it is set to empty string.
-  - description: The whole description of the question. Stated with X. ...
+  - description: The whole description of the question. Stated with `X. ...`
   - type: Question type like single-choice but it is saved as a Mandarin string. Default is "unknown"
   - points: Points of the question. Default is "unknown"
-  - options: Options of the questions. Usually started with (A)...
+  - options: Options of the questions. Usually started with `(A)...`
